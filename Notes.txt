@@ -12,3 +12,20 @@ unedning??beginning notes for SEC+ studying
 the quick brown fox jumps over the lazy dog
 beginning new notes
 unedning??
+
+3/25 quick notes
+dumpster is passive recon
+eap supports eap
+kerberos has tickets
+md5 is 128 bit
+router MAC identifies rogue devices'
+web app vuln scan for apache servers
+diffie helman is assymetric
+blowfish is assymettric
+faults get repaired
+calls are vishing
+port 3389 is EQ 3389
+../ directories is directory traversal
+diamond model is graphical
+one ping to many is smurf
+Network Access Control NAC protects VPNS
