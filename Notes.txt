@@ -52,7 +52,7 @@ DSA is asymmetricy hosts file for redirects
 
 3/27 part 2
 vuln scan with no results was uncredentialed
-verify hosts file after redirects
+verify Hosts File after redirects
 encrypted LDAP should change to port 636
 Data Protection Officer interviews auditor
 Static Code Analysis detects buffer overflow
