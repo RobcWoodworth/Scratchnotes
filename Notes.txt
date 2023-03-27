@@ -6,12 +6,6 @@ testing
 
 3/23 entry
 beginning notes for SEC+ studying
-the quick brown fox jumps over the lazy dog
-beginning new notes
-unedning??beginning notes for SEC+ studying
-the quick brown fox jumps over the lazy dog
-beginning new notes
-unedning??
 
 3/25 quick notes
 dumpster is passive recon
@@ -21,7 +15,7 @@ md5 is 128 bit
 router MAC identifies rogue devices'
 web app vuln scan for apache servers
 diffie helman is assymetric
-blowfish is assymettric
+blowfish is symettric
 faults get repaired
 calls are vishing
 port 3389 is EQ 3389
@@ -29,3 +23,29 @@ port 3389 is EQ 3389
 diamond model is graphical
 one ping to many is smurf
 Network Access Control NAC protects VPNS
+
+3/27 quick notes
+openssl is a web application
+OAuth2 paired with OpenID Connect OIDC
+network service identified by syslog
+Gramm Leach Blily Act GLBA for financial data
+Lessons Learned report = when, impactful, effectivnes
+netstat scans active TCP connections
+Sanitize = Purge, Validate, Document
+no subnets for single IPs
+biometric accuracy = crossover error rate
+quick and effective check = VirusTotal
+failed check exit = error handling
+check SSH with banner grabbing
+LDAP is not shared authentication protocol
+changing hidden form values = no IDS
+ECC is asymmetric
+Federal Info Sec Managemment Act FISMA = government
+STRONGEST = randomized one time use pad
+PII is most impactful breach
+Cryptographic erase for reusing erased drives
+Active scanning on enterprise console
+Hping uses TCP instead of ICMP
+Non-Repudiation ensures a sender sent a message
+SLE = AV x RF , ALE = SLE x ARO = 9,000
+DSA is asymmetricy hosts file for redirects
