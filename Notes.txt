@@ -99,3 +99,24 @@ General information pentest is partially known environment
 Pretending to be malicious is a maneuver
 syn flood is a resource exhaustion attack
 Urgency is social engineering
+
+part 3
+equipment but no data is a warm site
+OAuth does not shield data 
+RAID 1+0 is mirror and striping
+configuration review can catch unwanted ports without scan 
+an IPS can identify attacks 
+Stored Procedures: Security between user interface and database 
+Fake telemetry can decieve honeypot attackers 
+IaaS can get you a Linux system 
+IaC Infrastructure as Code can manage different datacenters 
+Host Firewalls are best for individual OSs 
+Windows Picture Password is Something You Can Do 
+Sign a sent email with your private key 
+OWASP can assess a website security 
+Symmetric encryption is faster than assymmetric 
+Honeypots can detect, deflect, and counteract attacks 
+Fake police message is a Hoax 
+Hardware Security Module HSM manages digital keys 
+Homomorphic encryption allows computations without decrypt 
+System on Chip SoC should have its own Cryptographic key 
