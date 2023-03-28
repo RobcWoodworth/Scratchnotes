@@ -86,3 +86,16 @@ Birthday attack is Cryptographic attack
 Rainbow table can recover forgotten passwords
 Domain redirects caused by Domain hijacking
 RFID can be reverse engineered and MITM attacked
+
+part 2
+application DDoS attacks apps
+DNS poisoning modifies domain entries
+on path attack presents attacker as server
+LDAP query parameterization prevents LDAP injection
+Firmware patch management protects wireless router
+Default login credentials is unsecured administrator account
+Prevent broadcast storms with no loops, splitting broadcast domains, arp
+General information pentest is partially known environment
+Pretending to be malicious is a maneuver
+syn flood is a resource exhaustion attack
+Urgency is social engineering
