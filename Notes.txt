@@ -71,3 +71,18 @@ best practice to scan during low activity
 NIPS filters content, firewall external filters
 Dequassing is purging
 race and ethnicity is Sensitive Personal Info to GDPR
+
+3/28 quicknotes
+same hash as a stored password is collision attack
+on path intercepting HTTPS is plaintext password attack
+removing SQL from Ajax does NOT prevent SSRF
+seg faults from null pointers can create DoS environment
+Domain reputation lookup if being spam blocked
+Packet capture to solve TCP handshake issues
+complex passwords prevents credential harvesting
+User Behavior Analysis detects insider threats on SIEM
+symettric encryption prevents brute Force
+Birthday attack is Cryptographic attack
+Rainbow table can recover forgotten passwords
+Domain redirects caused by Domain hijacking
+RFID can be reverse engineered and MITM attacked
