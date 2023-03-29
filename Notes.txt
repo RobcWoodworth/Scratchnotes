@@ -136,3 +136,8 @@ Protected Cable Distribution allows unencrypted traffic
 GPS and WiFi power geofencing 
 RAID 6 allows 2 drives to fail 
 Theft and Loss are dangers to physical tokens 
+
+edit 
+symmetric encryption has low latency 
+elliptic curves cryptography ECC has low computation needs 
+and ECC is asymmetric 
