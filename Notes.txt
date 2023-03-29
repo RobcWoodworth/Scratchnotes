@@ -141,3 +141,8 @@ edit
 symmetric encryption has low latency 
 elliptic curves cryptography ECC has low computation needs 
 and ECC is asymmetric 
+
+edit
+L2TP is port 1701, Kerberos is port 88 
+NAC Network Access Control can protect VPNs 
+
