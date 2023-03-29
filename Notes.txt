@@ -156,3 +156,6 @@ Antivirus with heuristic analysis can prevent spread
 SYMMETRIC: Blowfish, AES, DES, RC4  
 ASSYMETRIC: Diffie helman, RSA, DSA, ECC 
 
+Part 2
+Recovery Time Objective is the time needed to come back up 
+FM-200 is fire suppression 
