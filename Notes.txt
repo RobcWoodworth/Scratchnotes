@@ -182,3 +182,27 @@ Behavior-Based Analysis can detect wrong locations
 TPM does not authenticate user
 War Walking won't help a wired network 
 Virtual Desktop Infrastructure VDI can use VMs
+
+messer:
+laptops containing PII should have biometric locks
+smart cards can be used in places where ID badges are
+NTPsec is secure time protocol
+SNMPv3 is secure SNMP protocol 
+Partition data and temp files systems are part of file storage 
+All in one printers are MFD multifunction devices 
+ISO 27701 specifically deals with PII 
+OS security policies can stop USB exfiltration 
+EAP-TTLS Tunneled TLS can secure tunnels 
+CASB: List of apps and verify encrypted transfers 
+Login banner is a deterrent because it discourages attacks 
+Verify account closure by validating outgoing procedure 
+Trusted Boot verifies the OS kernel 
+Virtual Desktop Infrastructure VDI works on many devices 
+Integrity Measurement checks baseline firewall configs 
+Job Rotation ensures a job gets done 
+Kerberos can SSO once per day 
+Data custodian manages access rights 
+HSM hardware security module stores certificates 
+DLP can prevent transmission of data 
+Pentests can find insecurities in a system 
+
