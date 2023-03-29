@@ -120,3 +120,19 @@ Fake police message is a Hoax
 Hardware Security Module HSM manages digital keys 
 Homomorphic encryption allows computations without decrypt 
 System on Chip SoC should have its own Cryptographic key 
+
+part 4
+A DVR helps a CCTV system 
+Create applications on a PaaS 
+Version Numbering stops release regression 
+Datacenters should be 100 miles apart 
+Smart Cards have strong cryptograqphic support 
+Conduct a site survey when setting up a wireless network 
+Disable unneeded services first when securing endpoints 
+NIC teaming offers fault tolerance and greater throughput 
+Online Certificate Status Protocol OCSP checks revokation 
+Office with just power is a cold site 
+Protected Cable Distribution allows unencrypted traffic 
+GPS and WiFi power geofencing 
+RAID 6 allows 2 drives to fail 
+Theft and Loss are dangers to physical tokens 
