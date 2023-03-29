@@ -146,3 +146,13 @@ edit
 L2TP is port 1701, Kerberos is port 88 
 NAC Network Access Control can protect VPNs 
 
+3/29 quick notes 
+Cache, swapfile, RAM, hard drive is order of volatility
+LDAP is not an authentication protocol 
+IR Team lead should be contacted before CEO 
+Banner grabbing can determine SSH version 
+Antivirus with heuristic analysis can prevent spread 
+
+SYMMETRIC: Blowfish, AES, DES, RC4  
+ASSYMETRIC: Diffie helman, RSA, DSA, ECC 
+
