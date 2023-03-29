@@ -159,3 +159,26 @@ ASSYMETRIC: Diffie helman, RSA, DSA, ECC
 Part 2
 Recovery Time Objective is the time needed to come back up 
 FM-200 is fire suppression 
+
+Part 3
+set type=ns looks up DNS on nslookup 
+credentialed scan can find configuration errors 
+ntlm= 128, md5= 128, sha1= 160, ripemd= 160, sha2= 256bit
+hybrid attack blends dictionary and brute force tools 
+After forensic imaging, hash digest to ensure match
+Social Media info used in cognitive password attack 
+COnduct data criticality analysis to review assets 
+LDAPS uses TLS, which uses mutual authentication 
+nmap is an open source host discovery scanner 
+malicious processes is host-based IOC, not account IOC 
+SAML Service Provider SP uses IdP to trust identity of UserAgent 
+ABAC is most detailed and explicit type of acces control 
+PCI-DSS requires notification to payment card brands 
+FullDisk encryption prevents remanence in cloud 
+ntlm= 128, md5= 128, sha1= 160, ripemd= 160, sha2= 256bit 
+PasstheHash harvests a hash from cache then uses it 
+Insecure Direct Object Reference can allow attackers in 
+Behavior-Based Analysis can detect wrong locations 
+TPM does not authenticate user
+War Walking won't help a wired network 
+Virtual Desktop Infrastructure VDI can use VMs
