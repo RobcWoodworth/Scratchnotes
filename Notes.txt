@@ -206,3 +206,32 @@ HSM hardware security module stores certificates
 DLP can prevent transmission of data 
 Pentests can find insecurities in a system 
 
+1234567890 123456789 0
+
+3/30 quick notes 
+RAID 5: min 3 drives, striping not mirroring
+volatility: cache, routing tables, temp files, logs, backups 
+Hashing can store a password on a server 
+Key escrow uses a second key 
+IPS stopping an SQL inject is Data in Transit 
+Spreadsheet updating is data in use 
+Backup tapes being transported is data at rest 
+IPS is detective deterrent 
+Request for payment is invoice scam 
+Passwords in a packet capture is caused by insecure protocols 
+WPS allows for brute force attacks because only 11000 combinations of PIN
+If logs show servers are being exploited, disconnect from network 
+Watering hole attacks can happen at security conventions 
+OCSP stapling allows revoked certs shown with no traffic 
+Tokenization can protect financial transactions 
+SAE can enhance PSK over WPA3 
+If keylogger found, block all unknown outbound traffic 
+HTTPS can prevent protocol analysis 
+Internal CA certificats can prevent on path attacks 
+Diamond Model can standardize reporting after attack 
+LDAP supports 802.1x authentication 
+Employee connecting to mobile hotspot: use HIPS and host firewall 
+After removing affected machines, move onto eradications 
+Mandatory vacations can uncover embezzlement and fraud 
+TPM uses burned in keys and protects against brute force 
+
