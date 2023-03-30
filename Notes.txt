@@ -259,3 +259,28 @@ Stateless firewalls inspect each packet against rules
 SAE does not send password over the network 
 NIST cyber framework CSF is id, protect, detect, respond, recover 
 symmetric cryptography does not provide nonrepudiation 
+
+part 3 chapple 
+risk assessments are not easily automated 
+data stewards implement guidelines, custodians follow rules 
+column after linux uName is group, second permissions 
+application failure can cause a service to not respond 
+pinging systems send out ICMP echo requests 
+Transitive domain charts point to which system you trust 
+3DES encryption uses 3 keys 
+tcpdump works in command line, unlike wireshark 
+active/passive load balancers good fault tolerance 
+AAA authorization when system consults ACL 
+192. ip coming from internet is spoofed 
+CBC cypher block chaining XOR chains cyphers together 
+Bcrypt uses key stretching against CPU and memory attacks 
+RAID 5 can lose 1 disk before memory loss 
+Federal DSS standard approves DSA encryption signatures 
+biometric false rejection rate FRR 
+if linux on device not accessible, manufacturer must update 
+AES supports 128, 192, and 256 bit keys, not 512 
+SYN flood best detected by signature NIDS 
+Digital signature certificate of PIV provides nonrepudiation 
+DNSSEC always supports RSA/SHA1 minimum 
+Push notifications are users favorite 2FA 
+SIEM correlation engine should be in secure segment 
