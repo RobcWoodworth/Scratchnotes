@@ -208,7 +208,7 @@ Pentests can find insecurities in a system
 
 1234567890 123456789 0
 
-3/30 quick notes 
+3/30 quick notes messer
 RAID 5: min 3 drives, striping not mirroring
 volatility: cache, routing tables, temp files, logs, backups 
 Hashing can store a password on a server 
@@ -235,3 +235,27 @@ After removing affected machines, move onto eradications
 Mandatory vacations can uncover embezzlement and fraud 
 TPM uses burned in keys and protects against brute force 
 
+part 2 mike chapple:
+PEM is the only certificate written in ACSII 
+STIX framework represents threats in a standardized manner 
+DNSKEY record should include your public key 
+dnsenum provides detailed DNS enumeration 
+VPC Virtual private cloud endpoint can access private subnet block storage 
+PCI DSS uses compensating controls 
+HMAC otp HOTP uses a physical button on token 
+Heat map can show gaps in wireless coverage 
+encrypt asymmetric message with their public key 
+registration, badges, and escorts are operational control category
+job rotation can detect fraud 
+Best practice is that password changing is no longer needed 
+CVSS3 Attack complexity AC conditions beyond attackers control 
+User Acceptance Testing should happen on staging server 
+creating new ways to access during attack is persistence 
+eDiscovery Review is when attorney looks at material 
+DMZ is for servers that must be publicly exposed 
+PAM priviliged access management allows sharing admin creds 
+Normalization ensures consistent database structure and longevity 
+Stateless firewalls inspect each packet against rules 
+SAE does not send password over the network 
+NIST cyber framework CSF is id, protect, detect, respond, recover 
+symmetric cryptography does not provide nonrepudiation 
