@@ -311,3 +311,6 @@ Service Organizational Control SOC reports after audit
 SOC 1 is for financial controls, SOC 2 is for security 
 SOC Type 1 verifies controls exist, Type 2 is effectiveness 
 nmap -Pn disables discovery pings 
+
+use live boot media if public computer has corrupted OS 
+web application firewall shows blocked SQL injections 
