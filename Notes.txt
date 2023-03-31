@@ -314,3 +314,12 @@ nmap -Pn disables discovery pings
 
 use live boot media if public computer has corrupted OS 
 web application firewall shows blocked SQL injections 
+
+3/31 quick notes 
+dion 5
+RPO is data, RTO is availability 
+Cross site scripting is injecting client scripts 
+If no firewall or antimalware vulns, probably zero day 
+Protocol is not a way to identify malware beacons 
+Application AllowList is the best defense against zero days 
+MAC is the strongest acces control 
