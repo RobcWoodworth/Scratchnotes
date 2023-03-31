@@ -284,3 +284,30 @@ Digital signature certificate of PIV provides nonrepudiation
 DNSSEC always supports RSA/SHA1 minimum 
 Push notifications are users favorite 2FA 
 SIEM correlation engine should be in secure segment 
+
+chapple 3 330
+Staging environment is for code changes awaiting deployment 
+Digital certs are best for preventing MITM attacks 
+TLS VPNs use port 443 so are least likely to get blocked 
+WPA uses TKIP, WPA2 uses CCMP to use AES 
+USB On the Go devices act as a server for other USB devices 
+SELinux is not usually used in embedded systems 
+A firewall is mission critical because it provides access 
+Default account names will let automated attacks in easier 
+In Mandatory MAC, the system determines authorizations 
+HTTPS is the best protocol to get through firewalls 
+Digital certificates are in the X.509 format 
+Certificate Revokation Lists CRL do support EV certs 
+Shutting down happens during containment, not recovery 
+Terminal Access Point TAP allows IDS to watch system 
+PaaS allows customers to upload code to managed cloud 
+Memory is RAM and is Data-in-Use 
+Address Space Layout Randomization ASLR 
+Credentialed Scanning can reduce false positives 
+RC4 is an outdated algorithm 
+A cert's public key is shared with no key 
+Logging failed logins is Accounting in AAA 
+Service Organizational Control SOC reports after audit 
+SOC 1 is for financial controls, SOC 2 is for security 
+SOC Type 1 verifies controls exist, Type 2 is effectiveness 
+nmap -Pn disables discovery pings 
