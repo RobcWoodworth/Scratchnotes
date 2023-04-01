@@ -348,7 +348,45 @@ Network devices keep their OS on the firmware
 Wireless controllers efficiently solve interference 
 Send assymetric message with their public key 
 Send symmetric message with shared key 
-COmpensating controls can only satisfy 1 requirement at a time 
+PCI DSS Compens controls can only satisfy 1 requirement at a time 
 Second level supervisor should conduct exit interview 
 Domain hijacking is usually social engineering on the domain registrar 
 Load balanced servers should have a virtual IP 
+
+4/1 quick notes 
+chapple 5
+Devices that generate netflow are called exporters 
+Renaming administrator account prevents brute force 
+Software updates generate false positives in app whitelisting 
+Fire suppression has highest impact rating 
+RADIUS uses UDP 1812+1813, MySQL TCP 1433, Oracle 1521
+Privilege escalation happens in Operation system 
+BIOS password shown on UEFI boot 
+Iris patterns don't change over lifetime 
+DLP blocks data theft, IPS blocks attack traffic 
+Purple teaming includes all participants 
+Safe checks make vuln scans non intrusive 
+Keep track of risk in a Risk Register 
+All countries where data is used affect laws 
+NetFlow is proprietary Cisco, IPFIX is open source 
+Browser extensions risk Man in the Browser attacks 
+Counter mode turns block ciphers into stream ciphers 
+Something You Do is most difficult to implement 
+Something you KNOW:
+   Passwords, pin, secret question 
+Something you DO:
+   Signature, Picture, Gesture 
+Something you HAVE: 
+   sms, push, authenticator, usb key, smart card 
+Something you ARE: 
+   Iris, Retina, Fingerprint, Facial, Gait 
+SomeWHERE you are: 
+   Geofencing, local IP, wifi 
+Any-Allow firewall rule allows any traffic in 
+NTFS explicit permission overrides inherited deny 
+< is most important character to block XSS 
+Full Disk Encryption FDE doesn't help Data-In-Transit 
+Using a widely used Cryptographic module is best practice 
+
+Wireless access points create RADIUS requests 
+TLS does not encrypt the IP packet header 
