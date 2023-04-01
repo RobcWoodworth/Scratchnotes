@@ -183,7 +183,7 @@ TPM does not authenticate user
 War Walking won't help a wired network 
 Virtual Desktop Infrastructure VDI can use VMs
 
-messer:
+messer 1:
 laptops containing PII should have biometric locks
 smart cards can be used in places where ID badges are
 NTPsec is secure time protocol
@@ -208,7 +208,7 @@ Pentests can find insecurities in a system
 
 1234567890 123456789 0
 
-3/30 quick notes messer
+3/30 quick notes messer 2
 RAID 5: min 3 drives, striping not mirroring
 volatility: cache, routing tables, temp files, logs, backups 
 Hashing can store a password on a server 
@@ -235,7 +235,7 @@ After removing affected machines, move onto eradications
 Mandatory vacations can uncover embezzlement and fraud 
 TPM uses burned in keys and protects against brute force 
 
-part 2 mike chapple:
+part 2 mike chapple 1
 PEM is the only certificate written in ACSII 
 STIX framework represents threats in a standardized manner 
 DNSKEY record should include your public key 
@@ -260,7 +260,7 @@ SAE does not send password over the network
 NIST cyber framework CSF is id, protect, detect, respond, recover 
 symmetric cryptography does not provide nonrepudiation 
 
-part 3 chapple 
+part 3 chapple 2
 risk assessments are not easily automated 
 data stewards implement guidelines, custodians follow rules 
 column after linux uName is group, second permissions 
@@ -390,3 +390,32 @@ Using a widely used Cryptographic module is best practice
 
 Wireless access points create RADIUS requests 
 TLS does not encrypt the IP packet header 
+
+chapple 6
+4 is r, 2 is w, 1 is x, 7 is rwx. 001, backwards numbers 
+RAID 0 striped, not redundant, fast 
+RAID 1 mirrored, redundant, slow (fast read) 
+RAID 3 striped THEN parity, redundant, fast 
+RAID 5 striped WITH parity, redundant, fast 
+RAID 1+0 10, striped and mirrored, redundant, fast
+SQL injection caused by no input val in App Code 
+Internal wep apps can use selfsigned certs
+Diffie Helman is for key exchange 
+WPA3-enterprise uses a backend auth server 
+PasstheHash reqiores a domain workstation 
+Mike Chapple is wrong about private clouds. 
+NTLM and NTLMv2 are both insecure and outdated 
+SMTP gets mail from internet, IMAP POP3 internal mail 
+WPS is insecure, disable it always 
+Kerberos client encrypts auth with TGS key 
+Development, testing, staging, production 
+Data Custodians just implement controls 
+ An IDS is a detective control
+ a GCM cypher generates blocks with counters 
+ an ACL is a rule-based access control 
+ MD5 isn't strong enough for digital signatures 
+ Challenge/response enhances voice recognition 
+ Copy machines have unpatched embedded systems 
+ Flood guard prevents DoS on a LAN 
+ Proximity cards are fastest to scan 
+ Exponentially longer timeouts prevent brute force 
