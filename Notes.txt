@@ -434,3 +434,9 @@ Secure Cookies prevents on-path
 Network tap is Passive monitoring 
 Redundant hardware is a warm site 
 Low or Informational vulns are false positives 
+
+part 3
+A reverse proxy directs traffic inside a network 
+Individual users with full control means DAC 
+Dig and dnsenum both are DNS tools, dig has sections 
+Attorney works in Review phase eDiscovery 
