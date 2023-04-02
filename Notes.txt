@@ -153,8 +153,8 @@ IR Team lead should be contacted before CEO
 Banner grabbing can determine SSH version 
 Antivirus with heuristic analysis can prevent spread 
 
-SYMMETRIC: Blowfish, AES, DES, RC4  
-ASSYMETRIC: Diffie helman, RSA, DSA, ECC 
+SYMMETRIC: Blowfish, Twofish, AES, DES, RC4  
+ASSYMETRIC: Diffie helman, RSA, DSA, ECC, PGP
 
 Part 2
 Recovery Time Objective is the time needed to come back up 
@@ -419,3 +419,18 @@ Data Custodians just implement controls
  Flood guard prevents DoS on a LAN 
  Proximity cards are fastest to scan 
  Exponentially longer timeouts prevent brute force 
+
+402
+dion 6
+Cloud SIEM might have regulatory issues 
+Network sniffers and STP cable help endpoints 
+A playbook is a checklist of actions 
+Classification is NOT part of retention policy 
+Deleting a VM image fragments it across system 
+Blowfish is not .509x compliant 
+Partial backup data can mean differential 
+Mandatory vacations prevents fraud 
+Secure Cookies prevents on-path 
+Network tap is Passive monitoring 
+Redundant hardware is a warm site 
+Low or Informational vulns are false positives 
