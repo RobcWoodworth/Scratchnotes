@@ -440,3 +440,9 @@ A reverse proxy directs traffic inside a network
 Individual users with full control means DAC 
 Dig and dnsenum both are DNS tools, dig has sections 
 Attorney works in Review phase eDiscovery 
+
+last minute cram part 1
+digital signatures provide integrity, auth, and nonrep 
+Perfect Forward Secrecy is session keys 
+Post-quantum cryptograph is future proof 
+ECB cypher is outdated 
