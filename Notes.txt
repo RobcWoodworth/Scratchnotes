@@ -446,3 +446,5 @@ digital signatures provide integrity, auth, and nonrep
 Perfect Forward Secrecy is session keys 
 Post-quantum cryptograph is future proof 
 ECB cypher is outdated 
+
+Security plus Passed! the notes worked!
