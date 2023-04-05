@@ -1,2 +1,11 @@
 Starting notes for IS243
 Task 1
+Dynamic resolvers
+TLS callbacks
+Use IDA's interface
+
+ASSEMBLY
+data is stored in registers
+eax is register
+mov transfers a register 
+note subroutines 
