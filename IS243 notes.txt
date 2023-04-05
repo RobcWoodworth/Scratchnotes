@@ -3,9 +3,19 @@ Task 1
 Dynamic resolvers
 TLS callbacks
 Use IDA's interface
-
 ASSEMBLY
 data is stored in registers
 eax is register
 mov transfers a register 
 note subroutines 
+
+Task 2
+encrypted, need key
+relyze comp
+lea moves register into eax 
+hex dec calculator 
+11 XOR 50
+
+
+Task 4 osint
+find roles in IRC channels
