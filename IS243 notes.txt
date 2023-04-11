@@ -18,4 +18,6 @@ hex dec calculator
 
 
 Task 4 osint
-find roles in IRC channels
+find roles in IRC channels 
+
+Task 5 buffer
