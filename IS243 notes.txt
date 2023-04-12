@@ -21,3 +21,6 @@ Task 4 osint
 find roles in IRC channels 
 
 Task 5 buffer
+
+If someone writes you a poem, that means they love you.
+If someone writes you a thousand poems, they love poems.
