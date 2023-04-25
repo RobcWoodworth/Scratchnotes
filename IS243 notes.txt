@@ -25,8 +25,16 @@ Task 5 buffer
 If someone writes you a poem, that means they love you.
 If someone writes you a hundred poems, they love poems.
 
-VOLUNTEER: https://app.code4socialgood.org/project/list/projects || https://www.democracylab.org/ || https://www.taprootplus.org/opportunities || https://www.volunteermatch.org/ || https://brigade.codeforamerica.org/brigades/ || OPENSOURCE: https://ovio.org/projects || https://openssf.org/community/openssf-working-groups/
+VOLUNTEER: https://app.code4socialgood.org/project/list/projects 
+|| https://www.democracylab.org/ 
+|| https://www.taprootplus.org/opportunities 
+|| https://www.volunteermatch.org/ 
+|| https://brigade.codeforamerica.org/brigades/ 
+|| OPENSOURCE: https://ovio.org/projects 
+|| https://openssf.org/community/openssf-working-groups/
 
 echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 5" | ncat 10.0.2.211 1234
 
 echo "potato" | nc 10.0.1.211
+the nodes
+the draft
