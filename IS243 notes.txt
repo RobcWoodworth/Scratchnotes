@@ -38,3 +38,4 @@ echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 5" | ncat 10.0.2.211 1234
 echo "potato" | nc 10.0.1.211
 the nodes
 the draft
+asdf
