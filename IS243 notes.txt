@@ -44,3 +44,5 @@ part 1:
 complete
 
 part 2: bypass DEP with rop chain
+##.....##..#######..##....##.##.....##.###.##...........##...
+
