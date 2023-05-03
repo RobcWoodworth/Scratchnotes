@@ -50,3 +50,7 @@ Task 7:
 Passed
 
 Task 8:
+mona.py will create shellcode
+mona.py for creating commands
+
+ 
