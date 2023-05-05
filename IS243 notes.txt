@@ -53,4 +53,6 @@ Task 8:
 mona.py will create shellcode
 mona.py for creating commands
 add notes 
+instructure canvas
+
  
