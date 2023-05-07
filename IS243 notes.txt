@@ -56,4 +56,10 @@ add notes
 instructure canvas
 generate shellcode 
 
+clear register with XOr before pushing register
+
+use mona.py not nasm
+
+deal with null bytes
+
  
