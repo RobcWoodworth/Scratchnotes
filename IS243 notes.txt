@@ -61,5 +61,5 @@ clear register with XOr before pushing register
 use mona.py not nasm
 
 deal with null bytes
-no none null l 
+no none null l l 
  
