@@ -63,3 +63,7 @@ use mona.py not nasm
 deal with null bytes
 no none null l l notes null 
  
+ ====================
+What are the steps that a shellcode needs to take to delete a windows file?
+=====================
+
