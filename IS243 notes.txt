@@ -70,3 +70,39 @@ What are the steps that a shellcode needs to take to delete a windows file?
 ====================
 Write mona.py commands to execute those steps, starting with a xor to clear a register
 =====================
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Module info :
+-----------------------------------------------------------------------------------------------------------------------------------------
+ Base       | Top        | Size       | Rebase | SafeSEH | ASLR  | NXCompat | OS Dll | Version, Modulename & Path
+-----------------------------------------------------------------------------------------------------------------------------------------
+ 0x77660000 | 0x77675000 | 0x00015000 | True   | True    | True  |  False   | True   | 10.0.14393.51 [win32u.dll] (C:\Windows\System32\win32u.dll)
+ 0x769a0000 | 0x76b42000 | 0x001a2000 | True   | True    | True  |  False   | True   | 10.0.14393.5125 [KERNELBASE.dll] (C:\Windows\System32\KERNELBASE.dll)
+ 0x774b0000 | 0x774f1000 | 0x00041000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [sechost.dll] (C:\Windows\System32\sechost.dll)
+ 0x74140000 | 0x7418e000 | 0x0004e000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [mswsock.dll] (C:\Windows\system32\mswsock.dll)
+ 0x62500000 | 0x6250f000 | 0x0000f000 | False  | False   | False |  False   | False  | -1.0- [warrlot.dll] (D:\Users\spo.rob.woodworth\warrlot.dll)
+ 0x6edd0000 | 0x6ee62000 | 0x00092000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [apphelp.dll] (C:\Windows\system32\apphelp.dll)
+ 0x74310000 | 0x7433b000 | 0x0002b000 | True   | True    | True  |  False   | True   | 10.0.14393.4169 [GDI32.dll] (C:\Windows\System32\GDI32.dll)
+ 0x77500000 | 0x7765d000 | 0x0015d000 | True   | True    | True  |  False   | True   | 10.0.14393.5850 [gdi32full.dll] (C:\Windows\System32\gdi32full.dll)
+ 0x75310000 | 0x753f0000 | 0x000e0000 | True   | True    | True  |  False   | True   | 10.0.14393.5125 [KERNEL32.DLL] (C:\Windows\System32\KERNEL32.DLL)
+ 0x00400000 | 0x0040e000 | 0x0000e000 | False  | False   | False |  False   | False  | -1.0- [dnsserver.exe] (D:\Users\spo.rob.woodworth\dnsserver.exe)
+ 0x74d30000 | 0x74dee000 | 0x000be000 | True   | True    | True  |  False   | True   | 7.0.14393.2457 [msvcrt.dll] (C:\Windows\System32\msvcrt.dll)
+ 0x742f0000 | 0x7430f000 | 0x0001f000 | True   | True    | True  |  False   | True   | 10.0.14393.5427 [SspiCli.dll] (C:\Windows\System32\SspiCli.dll)
+ 0x77840000 | 0x779c2000 | 0x00182000 | True   | True    | True  |  False   | True   | 10.0.14393.5006 [ntdll.dll] (C:\Windows\SYSTEM32\ntdll.dll)
+ 0x742e0000 | 0x742ea000 | 0x0000a000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [CRYPTBASE.dll] (C:\Windows\System32\CRYPTBASE.dll)
+ 0x74860000 | 0x74920000 | 0x000c0000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [RPCRT4.dll] (C:\Windows\System32\RPCRT4.dll)
+ 0x750d0000 | 0x75133000 | 0x00063000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [WS2_32.dll] (C:\Windows\System32\WS2_32.dll)
+ 0x76b50000 | 0x76bab000 | 0x0005b000 | True   | True    | True  |  False   | True   | 10.0.14393.4770 [bcryptPrimitives.dll] (C:\Windows\System32\bcryptPrimitives.dll)
+ 0x74580000 | 0x746e0000 | 0x00160000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [USER32.dll] (C:\Windows\System32\USER32.dll)
+ 0x74550000 | 0x74575000 | 0x00025000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [IMM32.DLL] (C:\Windows\System32\IMM32.DLL)
+-----------------------------------------------------------------------------------------------------------------------------------------
+0x7539ecbe (b+0x0008ecbe)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ece6 (b+0x0008ece6)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ed0e (b+0x0008ed0e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ed3e (b+0x0008ed3e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ed6e (b+0x0008ed6e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ed9e (b+0x0008ed9e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x50d7780c : "kernel32.dll" |  {PAGE_READONLY}
+
+0x6250123f : jmp esp | ascii {PAGE_EXECUTE_READ} [warrlot.dll] ASLR: False, Rebase: False, SafeSEH: False, OS: False, v-1.0- (D:\Users\spo.rob.woodworth\warrlot.dll)
+0x6250124b 
