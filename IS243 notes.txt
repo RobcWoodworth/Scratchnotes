@@ -106,3 +106,29 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 
 0x6250123f : jmp esp | ascii {PAGE_EXECUTE_READ} [warrlot.dll] ASLR: False, Rebase: False, SafeSEH: False, OS: False, v-1.0- (D:\Users\spo.rob.woodworth\warrlot.dll)
 0x6250124b 
+
+
+exit process while dns server is running, error access denied
+
+find address in there, deal with nullbytes
+
+set breakpoints with xCC in shellcode
+
+step through with button
+
+compare address in EIP to code
+
+ecx egx ebx eax usage GOOGLE THAT
+
+search for-> all intermodule calls
+
+view kernel32 search for deletefilea
+
+"copy converting asm script to shellcode", paste it into nano putty
+
+calculator, hex, dword, subtract 11111111
+
+XOR EAX, EAX
+MOV EAX, (that address from calculator)
+
+Step through with F7
