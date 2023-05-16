@@ -132,3 +132,5 @@ XOR EAX, EAX
 MOV EAX, (that address from calculator)
 
 Step through with F7
+
+1 clear the register with xor
