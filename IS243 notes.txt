@@ -147,3 +147,4 @@ Step through with F7
 ==============
 
 Task 9
+[*] Running Persistence Script
