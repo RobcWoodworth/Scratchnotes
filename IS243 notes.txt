@@ -148,3 +148,4 @@ Step through with F7
 
 Task 9
 [*] Running Persistence Script
+/home/phantom372/.msf4/local/ThomasSmith_Resume2.pdf
