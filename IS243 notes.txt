@@ -39,6 +39,8 @@ echo "potato" | nc 10.0.1.211
 the nodes
 the draft
 
+===============
+
 Task 6
 part 1:
 complete
@@ -46,8 +48,12 @@ complete
 part 2: bypass DEP with rop chain
 ##.....##..#######..##....##.##.....##.###.##...........##...
 
+===============
+
 Task 7:
 Passed
+
+===============
 
 Task 8:
 mona.py will create shellcode
