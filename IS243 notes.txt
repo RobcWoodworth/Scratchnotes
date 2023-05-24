@@ -1,4 +1,7 @@
 Starting notes for IS243
+
+======================
+
 Task 1
 Dynamic resolvers
 TLS callbacks
@@ -9,6 +12,8 @@ eax is register
 mov transfers a register 
 note subroutines 
 
+========================
+
 Task 2
 encrypted, need key
 relyze comp
@@ -16,14 +21,14 @@ lea moves register into eax
 hex dec calculator 
 11 XOR 50
 
+==========================
 
 Task 4 osint
 find roles in IRC channels 
 
-Task 5 buffer
+========================
 
-If someone writes you a poem, that means they love you.
-If someone writes you a hundred poems, they love poems.
+Task 5 buffer
 
 VOLUNTEER: https://app.code4socialgood.org/project/list/projects 
 || https://www.democracylab.org/ 
