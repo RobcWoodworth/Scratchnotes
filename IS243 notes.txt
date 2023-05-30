@@ -172,3 +172,4 @@ Task 10
 
 use exploit/multi/handler
 migrate process
+use post/windows/manage/persistence_exe
