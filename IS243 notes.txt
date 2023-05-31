@@ -175,3 +175,5 @@ migrate process
 use post/windows/manage/persistence_exe
 set rexepath /home/
 . . . 
+
+part 2 
