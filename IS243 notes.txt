@@ -179,3 +179,4 @@ set rexepath /home/
 part 2 
 . . 
 use multi/manage/autoroute
+use auxiliary/server/socks4a
