@@ -184,3 +184,4 @@ use auxiliary/server/socks4a
 
 === LOGIN ===
 # user and pw to login
+' or ''='
