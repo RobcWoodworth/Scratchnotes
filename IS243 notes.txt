@@ -131,7 +131,7 @@ set breakpoints with xCC in shellcode
 
 step through with button
 
-compare address in EIP to code . .
+compare address in EIP to code . . .
 
 ecx egx ebx eax usage GOOGLE THAT . . .
 
