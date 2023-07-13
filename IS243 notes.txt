@@ -137,7 +137,7 @@ ecx egx ebx eax usage GOOGLE THAT
 
 search for-> all intermodule calls . . .
 
-view kernel32 search for deletefilea .
+view kernel32 search for deletefilea . . .
 
 "copy converting asm script to shellcode", paste it into nano putty
 
