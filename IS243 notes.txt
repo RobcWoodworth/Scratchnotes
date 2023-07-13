@@ -135,7 +135,7 @@ compare address in EIP to codenotes
 
 ecx egx ebx eax usage GOOGLE THAT
 
-search for-> all intermodule calls
+search for-> all intermodule calls . . .
 
 view kernel32 search for deletefilea
 
