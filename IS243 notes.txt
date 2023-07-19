@@ -86,7 +86,7 @@ What are the steps that a shellcode needs to take to delete a windows file?
 Write mona.py commands to execute those steps, starting with a xor to clear a register
 =====================
 
------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
  Module info :
 -----------------------------------------------------------------------------------------------------------------------------------------
  Base       | Top        | Size       | Rebase | SafeSEH | ASLR  | NXCompat | OS Dll | Version, Modulename & Path
