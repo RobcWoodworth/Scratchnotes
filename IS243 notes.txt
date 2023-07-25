@@ -131,11 +131,11 @@ set breakpoints with xCC in shellcode
 
 step through with button
 
-compare address in EIP to codenotes 
+compare address in EIP to codenotes notes? 
 
 ecx egx ebx eax usage GOOGLE THAT
 
-search for-> all intermodule calls . . .
+search for-> all intermodule calls
 
 view kernel32 search for deletefilea
 
