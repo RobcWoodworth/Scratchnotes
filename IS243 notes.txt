@@ -123,7 +123,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 0x6250124b ...
 
 
-exit process while dns server is running, error access (denied)...
+exit process while dns server is running, error access (denied)
 
 find address in there, deal with nullbytes
 
