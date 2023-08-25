@@ -131,9 +131,9 @@ set breakpoints with xCC in shellcode
 
 step through with button
 
-compare address in EIP to codenotes notes???
+compare address in EIP to codenotes notes?
 
-ecx egx ebx eax usage GOOGLE THAT???
+ecx egx ebx eax usage GOOGLE THAT?
 
 search for-> all intermodule calls
 
