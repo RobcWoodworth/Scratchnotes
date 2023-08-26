@@ -141,7 +141,7 @@ view kernel32 search for deletefilea
 
 "copy converting asm script to shellcode", paste it into nano putty
 
-calculator app, hex, dword, subtract 11111111...
+calculator app, hex, dword, subtract 11111111......
 
 XOR EAX, EAX   
 MOV EAX, (that address from calculator)
