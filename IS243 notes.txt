@@ -115,7 +115,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 0x7539ece6 (b+0x0008ece6)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x7539ed0e (b+0x0008ed0e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x7539ed3e (b+0x0008ed3e)  : "kernel32.dll" |  {PAGE_...READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
-0x7539ed6e (b+0x0008ed6e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
+0x7539ed6e (b+0...x0008ed6e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x7539ed9e (b+0x0008ed9e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x50d7780c : "kernel32.dll" |  {PAGE_READONLY}
 
