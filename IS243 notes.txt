@@ -125,7 +125,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 
 exit process while dns server is running, error access (denied)
 
-find address in there, deal with nullbytes???
+find address in there, deal with nullbytes
 
 set breakpoints with xCC    in shellcode...
 
