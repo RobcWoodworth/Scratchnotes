@@ -146,7 +146,7 @@ calculator app, hex, dword, subtract 11111111
 XOR EAX, EAX   
 MOV EAX, (that address from calculator)
 
-Step through with F7
+Step through with F7???
 
 1 clear the register with xor
 2 push the filename
