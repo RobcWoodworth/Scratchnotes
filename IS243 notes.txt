@@ -184,7 +184,7 @@ part 2
 . . 
 use multi/manage/autoroute
 use auxiliary/server/socks4a
-. . . . ......
+. . . . .........
 
 === LOGIN ===
 # user and pw to login
