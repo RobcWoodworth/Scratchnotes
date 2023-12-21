@@ -373,7 +373,7 @@ Browser extensions risk Man in the Browser attacks
 Counter mode turns block ciphers into stream ciphers 
 Something You Do is most difficult to implement 
 Something you KNOW:
-   Passwords, pin, secret question 
+   Passwords, pin, secret question ...
 Something you DO:
    Signature, Picture, Gesture 
 Something you HAVE: 
