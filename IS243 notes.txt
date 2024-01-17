@@ -120,7 +120,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 0x50d7780c : "kernel32.dll" |  {PAGE_READONLY}
 
 0x6250123f : jmp esp | ascii {PAGE_EXECUTE_READ} [warrlot.dll] ASLR: False, Rebase: False, SafeSEH: False, OS: False, v-1.0- (D:\Users\spo.rob.woodworth\warrlot.dll)
-0x6250124b ..............
+0x6250124b .................
 
 
 exit process while dns server is running, error access (denied)
