@@ -103,7 +103,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
  0...................................x00400000 | 0x0040e000 | 0x0000e0n0 | False  | False   | False |  False   | False  | -1.0- [dnsserver.exe] (D:\Users\spo.rob.woodworth\dnsserver.exe)
  0x74d30000 | 0x74dee000 | 0x000be000 | True   | True    | True  |  False   | True   | 7.0.14393.2457 [msvcrt.dll] (C:\Windows\System32\msvcrt.dll)
  0x742f00...00 | 0x7430f000 | 0x0001f000 | True   | True    | True  |  False   | True   | 10.0.14393.5427 [SspiCli.dll] (C:\Windows\System32\SspiCli.dll)
- 0x77840.....................................000 | 0x779c2000 | 0x00182000 | True   | True    | True  |  ............False   | True   | 10.0.14393.5006 [ntdll.dll] (C:\Windows\SYSTEM32\ntdll.dll)
+ 0x77840........................................000 | 0x779c2000 | 0x00182000 | True   | True    | True  |  ............False   | True   | 10.0.14393.5006 [ntdll.dll] (C:\Windows\SYSTEM32\ntdll.dll)
  0x742e0000 | 0x742ea000................................. | True    | True  |  False   | True   | 10.0.14393.0 [CRYPTBASE.dll] (C:\Windows\System32\CRYPTBASE.dll)
  0x74860000 | 0x74920000 | 0x000c0000 | True   | True    | True  |  False  ... | True   | 10.0.14393.0 [RPCRT4.dll] (C:\Windows\System32\RPCRT4.dll)
  0x750d0000 | 0x75133000 | 0x00063000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [WS2_32.dll] (C:\Windows\System32\WS2_32.dll)
