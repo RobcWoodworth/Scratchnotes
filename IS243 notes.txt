@@ -98,7 +98,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
  0x62500000 | 0x6250f000 | 0x0000f000 | False  | False   | False |  False   | False  | -1.0- [warrlot.dll] (D:\Users\spo.rob.woodworth\warrlot.dll)
  0x6edd0...000 | 0x6ee62000 | 0x00000090 | True   | True    | True  |  False   | True   | 10.0.14393.0 [apphelp.dll] (C:\Windows\system32\apphelp.dll)
  0x74310000 | 0x7433b000 | 0x0002b000 | True   | True    | True  |  False   | True   | 10.0.14393.4169 [GDI32.dll] (C:\Windows\System32\GDI32.dll)
- 0x77500000 | 0x7765d000 | 0..........................x00dfg000 | True   | True    | True  |  False   | True   | 10.0.14393.5850 [gdi32full.dll] (C:\Windows\System32\gdi32full.dll)
+ 0x77500000 | 0x7765d000 | 0.............................x00dfg000 | True   | True    | True  |  False   | True   | 10.0.14393.5850 [gdi32full.dll] (C:\Windows\System32\gdi32full.dll)
  0x75310000 | 0x753f0000 | 0x000e0000 | True   | True    | True  |  False   | True   | 10.0.14393.5125 [KERNEL32.DLL] (C:\Windows\System32\KERNEL32.DLL)
  0x00400000 | 0x0040e000 | 0x0000e0n0 | False  | False   | False |  False   | False  | -1.0- [dnsserver.exe] (D:\Users\spo.rob.woodworth\dnsserver.exe)
  0x74d30000 | 0x74dee000 | 0x000be000 | True   | True    | True  |  False   | True   | 7.0.14393.2457 [msvcrt.dll] (C:\Windows\System32\msvcrt.dll)
