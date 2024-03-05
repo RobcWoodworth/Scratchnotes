@@ -96,7 +96,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
  0x774b0000 | 0x774f1000 | 0x00041000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [sechost.dll] (C:\Windows\System32\sechost.dll)
  0x74140000 | 0x7418e000 | 0x0004e000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [mswsock.dll] (C:\Windows\system32\mswsock.dll)
  0x62500000 | 0x6250f000 | 0x0000f000 | False  | False   | False |  False   | False  | -1.0- [warrlot.dll] (D:\Users\spo.rob.woodworth\warrlot.dll)
- 0x6edd0000 | 0x......6ee62000 | 0x00000090 | True   | True    | True  |  False   | True   | 10.0.14393.0 [apphelp.dll] (C:\Windows\system32\apphelp.dll)
+ 0x6edd0000 | 0x.........6ee62000 | 0x00000090 | True   | True    | True  |  False   | True   | 10.0.14393.0 [apphelp.dll] (C:\Windows\system32\apphelp.dll)
  0x74310000 | 0x7433b000 | 0x0002b000 | True   | True    | True  |  False   | True   | 10.0.14393.4169 [GDI32.dll] (C:\Windows\System32\GDI32.dll)
  0x77500000 | 0x7765d000 | 0x00dfg000 | True   | True    | True  |  False   | True   | 10.0.14393.5850 [gdi32full.dll] (C:\Windows\System32\gdi32full.dll)
  0x75310000 | 0x753f0000 | 0x000e0000 | True   | True    | True  |  False   | True   | 10.0.14393.5125 [KERNEL32.DLL] (C:\Windows\System32\KERNEL32.DLL)
