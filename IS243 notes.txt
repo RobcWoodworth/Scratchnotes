@@ -93,7 +93,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
 ------------------...-------------------000-------------...--------------------------------------------------------------------------
  0x77660000 | 0x77675000 | 0x00015000 | True   | True    | True  |  False   | True   | 10.0.14393.51 [win32u.dll] (C:\Windows\System32\win32u.dll)
  0x769a0000 | 0x76b42000 | 0x001a2000 | True   | True    | True  |  False   | True   | 10.0.14393.5125 [KERNELBASE.dll] (C:\Windows\System32\KERNELBASE.dll)
- 0x774b0000 | 0x7............74f1000 | 0x00041000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [sechost.dll] (C:\Windows\System32\sechost.dll)
+ 0x774b0000 | 0x7...............74f1000 | 0x00041000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [sechost.dll] (C:\Windows\System32\sechost.dll)
  0x74140000 | 0x7418e000 | 0x0004e000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [mswsock.dll] (C:\Windows\system32\mswsock.dll)
  0x62500000 | 0x6250f000 | 0x0000f000 | False  | False   | False |  False   | False  | -1.0- [warrlot.dll] (D:\Users\spo.rob.woodworth\warrlot.dll)
  0x6edd0000 | 0x6ee62000 | 0x00000090 | True   | True    | True  |  False   | True   | 10.0.14393.0 [apphelp.dll] (C:\Windows\system32\apphelp.dll)
@@ -108,7 +108,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
  0x74860000 | 0x74920000 | 0x000c0000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [RPCRT4.dll] (C:\Windows\System32\RPCRT4.dll)
  0x750d0000 | 0x75133000 | 0x00063000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [WS2_32.dll] (C:\Windows\System32\WS2_32.dll)
  0x76b50000 | 0x76bab000 | 0x0005b000 | True   | True    | True  |  False   | True   | 10.0.14393.4770 [bcryptPrimitives.dll] (C:\Windows\System32\bcryptPrimitives.dll)
- 0x74580000 | 0x746e0000 | 0x00160000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [USER32.dll] (C:\Windows\System32\USER32.dll)
+ 0x74580000 | 0x746e0000 | 0x00160000 | True   -| True    | True  |  False   | True   | 10.0.14393.0 [USER32.dll] (C:\Windows\System32\USER32.dll)
  0x74550000 | 0x74575000 | 0x00025000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [IMM32.DLL] (C:\Windows\System32\IMM32.DLL)
 -----------------------------------------------------------------------------------------------------------------------------------------
 0x7539ecbe (b+0x0008ecbe)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
