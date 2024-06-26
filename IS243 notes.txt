@@ -110,7 +110,7 @@ Write mona.py commands to execute those steps, starting with a xor to clear a re
  0x76b50000 | 0x76bab000 | 0x0005b000 | True   | True    | True  |  False   | True   | 10.0.14393.4770 [bcryptPrimitives.dll] (C:\Windows\System32\bcryptPrimitives.dll)
  0x74580000 | 0x746e0000 | 0x00160000 | True   -| True    | True  |  False   | True   | 10.0.14393.0 [USER32.dll] (C:\Windows\System32\USER32.dll)
  0x74550000 | 0x74575000 | 0x00025000 | True   | True    | True  |  False   | True   | 10.0.14393.0 [IMM32.DLL] (C:\Windows\System32\IMM32.DLL)
------------------------------------------------------------------------------------------------------------------------------------------
+-----------...------------------------------------------------------------------------------------------------------------------------------
 0x7539ecbe (b+0x0008ecbe)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x7539ece6 (b+0x0008ece6)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
 0x7539ed0e (b+0x0008ed0e)  : "kernel32.dll" |  {PAGE_READONLY} [KERNEL32.DLL] ASLR: True, Rebase: True, SafeSEH: True, OS: True, v10.0.14393.5125 (C:\Windows\System32\KERNEL32.DLL)
